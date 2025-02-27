@@ -1,4 +1,5 @@
 .section{
+    padding: 150px 0;
 
 }
 
@@ -11,9 +12,29 @@
 }
 
 .section-header{
+    margin: 0 auto;
+    margin-bottom: 50px;
+    
+    max-width: 800px;
+    width: 100%;
+
+
+    text-align: center;
 
 }
 
 .section-title{
+    font-family: var(--font-accent);
+    font-weight: 700;
+    color: var(--acccent);
+    font-size: 96px;
+    letter-spacing: 0.08em;
     
+
+
+}
+
+.section-header p{
+    font-size: 16px;
+    line-height: 2;
 }
