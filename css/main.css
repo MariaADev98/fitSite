@@ -13,5 +13,11 @@
 
 
 @import"./blocks/section.css";
-@import"./blocks/cardTrainer.css"
+@import"./blocks/cardTrainer.css";
+
+
+@import"./blocks/section-beast.css";
+@import"./blocks/button.css";
+@import"./blocks/card-group.css"
+
 
